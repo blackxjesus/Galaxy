@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "98TSU0UOgL4qpKaNoEcfwe42/Evi06gm5UTyX+aGQ7CPTPVSb+8T4Mq+zMFFegS7fnenyltfsUkm5AoiPUh05Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ziadm\\source\\repos\\Galaxy\\Galaxy\\Galaxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziadm\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.1\\microsoft.netcore.platforms.5.0.1.nupkg.sha512",
+    "C:\\Users\\ziadm\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\ziadm\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\ziadm\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\ziadm\\.nuget\\packages\\system.speech\\5.0.0\\system.speech.5.0.0.nupkg.sha512",
+    "C:\\Users\\ziadm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
